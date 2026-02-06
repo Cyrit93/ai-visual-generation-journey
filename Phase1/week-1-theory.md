@@ -264,10 +264,6 @@
 
 ## 
 
-## **### Core Concept**
-
-## 
-
 ## **\*\*Guidance Scale:\*\* Controls how strongly the prompt influences image generation**
 
 ## 
@@ -287,6 +283,8 @@
 ## 
 
 ## **Then blends them:**
+
+## 
 
 ## **```**
 
@@ -475,4 +473,6 @@
 ## **- Install ComfyUI locally**
 
 ## **- Generate first images with different parameters to see concepts in action**
+
+
 
