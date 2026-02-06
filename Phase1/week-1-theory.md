@@ -227,12 +227,4 @@ As of 2026, negative prompts are changing:
 ✅ DDIM is faster by not adding noise, but relies on CLIP conditioning  
 ✅ Guidance Scale controls how strongly prompts influence generation (7.5 is typical)  
 ✅ Noise schedules vary by model but are built-in, not user-controlled  
-✅ Samplers (DPM++, Euler, etc.) are variations on core algorithms – DPM++ is safest choice  
-
----
-
-## Next Steps
-
-- Finish the Welch Labs video if there's more content
-- Install ComfyUI locally
-- Generate first images with different parameters to see concepts in action
+✅ Samplers (DPM++, Euler, etc.) are variations on core algorithms – DPM++ is safest choice 
