@@ -190,10 +190,3 @@ Save Image: 512×512 viewable image
 ✅ The entire generation process is mathematical, not visual  
 
 ---
-
-## Next Steps
-
-- Connect the 5 nodes in ComfyUI (Load Checkpoint, CLIP Text Encode, KSampler, VAE Decode, Save Image)
-- Generate your first image
-- Experiment with different prompts and parameters
-- Observe how changes affect outputs
