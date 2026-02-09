@@ -11,6 +11,7 @@
 | **Double LMB** | Open node search menu |
 | **Right-click** | Alternative node search menu |
 | **Ctrl + A** | Select all nodes |
+| **Alt + C** | Collapse/Uncollapse |
 
 ---
 
