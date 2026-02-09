@@ -33,6 +33,37 @@ The core generation engine in ComfyUI.
 
 ---
 
+### VAE
+
+Core Function: The VAE is the "translator" between pixel space (images) and latent space (compressed representations).
+
+  **What Makes VAEs Different Between Models?**
+  Can Differ:
+  - Training dataset (anime vs. photorealistic vs. art)
+  - Training quality (how long/well it was trained)
+  - Fine-tuning focus (e.g., reducing blur, improving color saturation)
+  
+  **Must Match:**
+  - Architecture (compression ratio, latent dimensions, channel count)
+  - Latent space structure (how information is organized)
+
+  Practical Implications
+Baked VAE: Some checkpoints have the VAE already integrated
+
+No need for separate VAE file
+Example: Dark Sushi Mix has "baked VAE"
+
+Quality Impact:
+
+Good VAE: Sharp, vibrant colors, good details
+Poor/wrong VAE: Foggy, desaturated, artifacts
+
+Common Upgrades:
+
+Replacing default VAE with better-trained version from same family
+E.g., sdxl_vae.safetensors for SDXL models
+
+
 ### VAE Decode
 
 Converts the latent space representation into an actual viewable image.
