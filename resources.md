@@ -188,5 +188,3 @@ Save Image: 512×512 viewable image
 ✅ Raw latent visualization looks like noise (mathematically meaningful, visually meaningless)  
 ✅ VAE Decoder converts latent → pixels (the final step before you see results)  
 ✅ The entire generation process is mathematical, not visual  
-
----
