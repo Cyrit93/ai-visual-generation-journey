@@ -5,7 +5,7 @@ Double LMB - Search Nodes...
 
 Terms
 
-VAE Decode: Converts the latent (compressed representation) into an actual viewable image.
+**VAE Decode:** Converts the latent 'image' (compressed mathematical representation of image) into an actual viewable image.
 
 
 
@@ -14,35 +14,36 @@ Ksampler:
 
 \- Implements sampling algorithms (DDPM, DDIM, DPM++, etc.)
 
-\- Works in latent space (compressed representation)
-
-\- The "Sampler" parameter chooses which algorithm to use inside KSampler
+\- Works in latent space (compressed mathematical representation of image)
 
 
 
-Latent Space: (zu Deutsch: verborgener Raum)
 
-* semantic compression of images
+
+**Latent Space:** (zu Deutsch: verborgener Raum)
+
+* semantic compression of images, it consists out of numbers not pixels.
 * stores abstract features like "color", "face-like", "texture"
 * Image generation of the Ksampler happens in latent space
+* A latent space isn't a typical image space like 64x64px in RGB. It's 64x64x4 (or more channels) of non-visual information.
 
 
 
-A latent space isn't just 64x64px in RGB. It's 64x64x4 (or more channels).
 
 
 
-Structure:
 
-64 x 64 x 4 = 16,384 values total
+Latent Space Structure:
 
-Each position \[x, y] has 4-8+ (or more) channels of information.
+64 x 64 x 4-8+ = 16,384 values total
+
+Each position \[x, y] has 4-8+ channels of information.
 
 
 
 What Do These Channels Store?
 
-They're learned representations – the VAE figure out whatfff to encode:
+Representations from the VAE Encoder figures out what to encode: The Channels contain representations of the image the VAE Encoder converted. VAE Encoders learns to encode meaningful features
 
 Channel 0 at \[0,1]: Might capture "color" at that location
 
@@ -54,13 +55,11 @@ Channel 3 at \[0,1]: Might capture "shape curvature" at that location
 
 
 
-\- Rich semantic information stored compactly
+This way rich semantic information stored compactly
 
-\- VAE learns to encode meaningful features
+The KSampler works with all channels simultaneously
 
-\- KSampler works with all channels simultaneously
 
-\- Much more efficient than pixel-by-pixel processing
 
 
 
@@ -104,5 +103,5 @@ VAE Encoder: learns to extract SEMANTIC FEATURES from images, Captures meaning, 
 
 
 
-VAE Decoder: converts semantic features back to viewable pixels
+VAE Decoder: converts latent space (semantic features) back to viewable pixels
 
