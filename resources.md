@@ -12,6 +12,10 @@
 | **Right-click** | Alternative node search menu |
 | **Ctrl + A** | Select all nodes |
 | **Alt + C** | Collapse/Uncollapse |
+| **Ctrl + b** | Bypass/Unbypass Selected Nodes |
+| **Ctrl + LMB Drag** | Multi Selection of Nodes |
+| **Alt + LMB Drag** | Duplicate Selected Node |
+| **Ctrl + G** | Group Selected Nodes |
 
 ---
 
