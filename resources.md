@@ -34,7 +34,6 @@ The core generation engine in ComfyUI.
 Model Terms
  Term | Description |
 |----------|--------|
-- **Architecture/Model Types**:
 | **fp8** | low vram requirements, fast, low Quality |
 | **bf16** | medium vram requirements, medium Quality |
 | **AIO** | A model containing the diffusion Model, VAE and Text Encoder) designed for simplicity and ease of use |
