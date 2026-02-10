@@ -43,8 +43,6 @@ Model Terms
 
 ---
 
----
-
 ### VAE
 
 Core Function: The VAE is the "translator" between pixel space (images) and latent space (compressed representations).
