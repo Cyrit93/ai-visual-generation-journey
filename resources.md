@@ -33,12 +33,12 @@ The core generation engine in ComfyUI.
 
 Model Terms
 - **Architecture/Model Types**:
-- **fp8:** low vram requirements, fast, low Quality
-- **bf16:** medium vram requirements, medium Quality
-- **AIO**: A model containing the diffusion Model, VAE and Text Encoder) designed for simplicity and ease of use
-- **_scaled**: A suffix showcasing a Model version with enhanced tuning for better accuracy
-- **GGUF:** GPT Generated unified Format is model format to run large models on system with lesser memory
-- **Q-Quantization:** Parameter in GGUF Models (e.G: q4 = 4Bit Precision) Lower Bit Quantization reduces filesize and Vram Requirements
+| **fp8** | low vram requirements, fast, low Quality |
+| **bf16** | medium vram requirements, medium Quality |
+| **AIO** | A model containing the diffusion Model, VAE and Text Encoder) designed for simplicity and ease of use |
+| **_scaled** | A suffix showcasing a Model version with enhanced tuning for better accuracy |
+| **GGUF** | GPT Generated unified Format is model format to run large models on system with lesser memory |
+| **Q-Quantization** | Parameter in GGUF Models (e.G: q4 = 4Bit Precision) Lower Bit Quantization reduces filesize and Vram Requirements |
 
 
 ---
