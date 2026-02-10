@@ -42,6 +42,7 @@ Model Terms
 | **GGUF** | GPT Generated unified Format is model format to run large models on system with lesser memory |
 | **Q-Quantization** | Parameter in GGUF Models (e.G: q4 = 4Bit Precision) Lower Bit Quantization reduces filesize and Vram Requirements |
 
+---
 
 ---
 
