@@ -16,7 +16,7 @@
 ## Core Terms & Concepts
 
 ### KSampler
-
+	
 The core generation engine in ComfyUI.
 
 - **Name Origin:** Named after Karras et al. (influential diffusion sampling researchers)
@@ -32,6 +32,8 @@ The core generation engine in ComfyUI.
 - **Seed:** Initial Noisepattern set before diffusion process
 
 Model Terms
+ Term | Description |
+|----------|--------|
 - **Architecture/Model Types**:
 | **fp8** | low vram requirements, fast, low Quality |
 | **bf16** | medium vram requirements, medium Quality |
