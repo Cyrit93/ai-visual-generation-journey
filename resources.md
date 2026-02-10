@@ -1,9 +1,3 @@
-# Week 3-4: ComfyUI Setup & Core Concepts
-
-**Focus:** ComfyUI Installation, First Nodes, Understanding Latent Space
-
----
-
 ## Essential Keyboard Shortcuts
 
 | Shortcut | Action |
@@ -33,8 +27,19 @@ The core generation engine in ComfyUI.
 **Key Parameters:**
 - **Steps:** Number of denoising iterations (20-50 typical)
 - **Cfg (Guidance Scale):** How strongly to follow the prompt (7.5 typical)
-- **Sampler:** Which algorithm to use (DPM++, Euler, etc.)
-- **Seed:** For reproducibility
+- **Sampler:** How Noise is removed (by different algorithms(DPM++, Euler, etc.))
+- **Scheduler:** When noise is remove (Linear or Non-Linear Steps (E.g. rapid initial changes))
+- **Seed:** Initial Noisepattern set before diffusion process
+
+Model Terms
+- **Architecture/Model Types**:
+- **fp8:** low vram requirements, fast, low Quality
+- **bf16:** medium vram requirements, medium Quality
+- **AIO**: A model containing the diffusion Model, VAE and Text Encoder) designed for simplicity and ease of use
+- **_scaled**: A suffix showcasing a Model version with enhanced tuning for better accuracy
+- **GGUF:** GPT Generated unified Format is model format to run large models on system with lesser memory
+- **Q-Quantization:** Parameter in GGUF Models (e.G: q4 = 4Bit Precision) Lower Bit Quantization reduces filesize and Vram Requirements
+
 
 ---
 
