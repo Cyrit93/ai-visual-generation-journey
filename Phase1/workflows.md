@@ -28,4 +28,4 @@ https://www.youtube.com/watch?v=jtwzVMV1quc
 https://www.youtube.com/watch?v=9YhC6jrFYac
 
 Nano Banana Pro Reference Creation:
-https://www.https//www.youtube.com/watch?v=9YhC6jrFYacreddit.com/r/nanobanana2pro/comments/1r1vvbk/prompt_how_to_create_a_reference_grid_from_a/
+https://www.reddit.com/r/nanobanana2pro/comments/1r1vvbk/prompt_how_to_create_a_reference_grid_from_a/
