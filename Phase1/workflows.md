@@ -22,4 +22,7 @@ Tutorial on creating a character Sheet for Lora Training.
 https://www.reddit.com/r/StableDiffusion/comments/1o6xjwu/free_face_dataset_generation_workflow_for_lora/?show=original
 
 **YT:** 
+**v1 QWEN:** 
 https://www.youtube.com/watch?v=jtwzVMV1quc
+**v2 Flux.2 Klein:** 
+https://www.youtube.com/watch?v=9YhC6jrFYac
