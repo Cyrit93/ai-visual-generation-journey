@@ -26,3 +26,6 @@ https://www.reddit.com/r/StableDiffusion/comments/1o6xjwu/free_face_dataset_gene
 https://www.youtube.com/watch?v=jtwzVMV1quc
 **v2 Flux.2 Klein:** 
 https://www.youtube.com/watch?v=9YhC6jrFYac
+
+Nano Banana Pro Reference Creation:
+https://www.https//www.youtube.com/watch?v=9YhC6jrFYacreddit.com/r/nanobanana2pro/comments/1r1vvbk/prompt_how_to_create_a_reference_grid_from_a/
