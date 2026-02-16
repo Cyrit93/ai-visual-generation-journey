@@ -16,8 +16,10 @@ https://github.com/1038lab/ComfyUI-JoyCaption/blob/main/example_workflows/Joycap
 
 **Face Dataset generation workflow for lora training (Qwen Edit 2509)**
 
-Tutorial on creating a character Sheet for Lora Training
+Tutorial on creating a character Sheet for Lora Training.
 
-**Forum:** https://www.reddit.com/r/StableDiffusion/comments/1o6xjwu/free_face_dataset_generation_workflow_for_lora/?show=original
+**Forum:**
+https://www.reddit.com/r/StableDiffusion/comments/1o6xjwu/free_face_dataset_generation_workflow_for_lora/?show=original
 
-**YT:** https://www.youtube.com/watch?v=jtwzVMV1quc
+**YT:** 
+https://www.youtube.com/watch?v=jtwzVMV1quc
