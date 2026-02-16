@@ -29,3 +29,6 @@ https://www.youtube.com/watch?v=9YhC6jrFYac
 
 Nano Banana Pro Reference Creation:
 https://www.reddit.com/r/nanobanana2pro/comments/1r1vvbk/prompt_how_to_create_a_reference_grid_from_a/
+
+Lora Character Dataset Training #2
+https://www.youtube.com/watch?v=itZCIZcaNTI
