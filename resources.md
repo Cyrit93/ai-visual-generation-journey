@@ -12,6 +12,18 @@
 | **Ctrl + G** | Group Selected Nodes |
 
 ---
+## Overview Open Source / closed Models 02/2026
+
+| **Model** | **Use-Case** |
+| **Nanobanana 3 PRO** | High-End Text2Img / Img2Img Editor & Generator |
+| **Midjourney** | Stylized High-End Text2Img / Img2Img Editor & Generator |
+| ** QWEN Image 2512** | Text2Img photorealistic |
+| **QWEN Image 2511** | Img2Img Editor |
+| **ZImage** | intelligent Text2Img / Img2Img Editor & Generator |
+| **ZImage Turbo** | efficient Text2Img / Img2Img Editor & Generator |
+| **klein iwas** | ähh |
+
+---
 
 ## Core Terms & Concepts
 
