@@ -15,6 +15,7 @@
 ## Overview Open Source / closed Models 02/2026
 
 | **Model** | **Use-Case** |
+|----------|--------|
 | **Nanobanana 3 PRO** | High-End Text2Img / Img2Img Editor & Generator |
 | **Midjourney** | Stylized High-End Text2Img / Img2Img Editor & Generator |
 | ** QWEN Image 2512** | Text2Img photorealistic |
