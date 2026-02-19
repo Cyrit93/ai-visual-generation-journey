@@ -19,6 +19,9 @@ An extension generating gaussian splash space. Camera can be adjusted within thi
 | Command | Action |
 | ------ | ----- |
 | MwUp/Down| Zoom In/Out |
+| Lmb | Rotate Camera |
+| Rmb | Pan Camera |
+| WASD | Move Camera |
 
 Github Repository:
 https://huggingface.co/dx8152/Qwen-Image-Edit-2511-Gaussian-Splash
