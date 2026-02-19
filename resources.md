@@ -21,8 +21,8 @@
 | ** QWEN Image 2512** | Text2Img photorealistic |
 | **QWEN Image 2511** | Img2Img Editor |
 | **ZImage** | intelligent Text2Img / Img2Img Editor & Generator |
-| **ZImage Turbo** | efficient Text2Img / Img2Img Editor & Generator |
-| **klein iwas** | ähh |
+| **ZImage Turbo** | dumb, efficient Text2Img / Img2Img Editor & Generator |
+| **Flux Klein** | efficient Img2Img Editor |
 
 ---
 
