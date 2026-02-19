@@ -11,5 +11,8 @@ Joy Caption is a ComfyUI custom node powered by the LLaVA model (LLaVA = Large L
 Github Repository:
 https://github.com/1038lab/ComfyUI-JoyCaption/blob/main/example_workflows/Joycaption_node.png 
 
----
+## QWEN Image Edit 2511 Gaussian Splash
+An extension generating gaussian splash space. Camera can be adjusted within this space. Output can be used as reference for perspective changes in editing
 
+Github Repository:
+https://huggingface.co/dx8152/Qwen-Image-Edit-2511-Gaussian-Splash
