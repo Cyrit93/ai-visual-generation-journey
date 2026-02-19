@@ -1,4 +1,4 @@
-# Week 1-2: Diffusion Models & AI Image Generation Fundamentals
+# Diffusion Models & AI Image Generation Fundamentals
 
 **Resource:** [How do AI Images Work - Welch Labs](https://youtu.be/iv-5mZ_9CPY)
 
