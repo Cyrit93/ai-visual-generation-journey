@@ -18,7 +18,7 @@
 |----------|--------|
 | **Nanobanana 3 PRO** | High-End Text2Img / Img2Img Editor & Generator |
 | **Midjourney** | Stylized High-End Text2Img / Img2Img Editor & Generator |
-| ** QWEN Image 2512** | Text2Img photorealistic |
+| **QWEN Image 2512** | Text2Img photorealistic |
 | **QWEN Image 2511** | Img2Img Editor |
 | **ZImage** | intelligent Text2Img / Img2Img Editor & Generator |
 | **ZImage Turbo** | dumb, efficient Text2Img / Img2Img Editor & Generator |
