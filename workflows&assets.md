@@ -14,5 +14,11 @@ https://github.com/1038lab/ComfyUI-JoyCaption/blob/main/example_workflows/Joycap
 ## QWEN Image Edit 2511 Gaussian Splash
 An extension generating gaussian splash space. Camera can be adjusted within this space. Output can be used as reference for perspective changes in editing
 
+# Panel Controls
+
+| Command | Action |
+| ------ | ----- |
+| MwUp/Down| Zoom In/Out |
+
 Github Repository:
 https://huggingface.co/dx8152/Qwen-Image-Edit-2511-Gaussian-Splash
