@@ -1,6 +1,5 @@
 ## RGThree Custom Nodes (Compare Image node)
-
----
+Quality of Life Nodes (e.G. Image Compare)
 
 ## Joycaption:
 
@@ -14,21 +13,3 @@ https://github.com/1038lab/ComfyUI-JoyCaption/blob/main/example_workflows/Joycap
 
 ---
 
-##Face Dataset generation workflow for lora training (Qwen Edit 2509)
-
-Tutorial on creating a character Sheet for Lora Training.
-
-**Forum:**
-https://www.reddit.com/r/StableDiffusion/comments/1o6xjwu/free_face_dataset_generation_workflow_for_lora/?show=original
-
-**YT:** 
-**v1 QWEN:** 
-https://www.youtube.com/watch?v=jtwzVMV1quc
-**v2 Flux.2 Klein:** 
-https://www.youtube.com/watch?v=9YhC6jrFYac
-
-Nano Banana Pro Reference Creation:
-https://www.reddit.com/r/nanobanana2pro/comments/1r1vvbk/prompt_how_to_create_a_reference_grid_from_a/
-
-Lora Character Dataset Training #2
-https://www.youtube.com/watch?v=itZCIZcaNTI
