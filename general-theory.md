@@ -197,6 +197,8 @@ Different schedules affect:
 
 The noise schedule is usually **hardcoded into the model** – you don't typically choose it.
 
+Video Tutorial on Shedulers: https://www.youtube.com/watch?v=egn5dKPdlCk
+
 ---
 
 ## Negative Prompts (2026 Status)
