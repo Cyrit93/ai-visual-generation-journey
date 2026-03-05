@@ -1,7 +1,7 @@
 ## RGThree Custom Nodes (Compare Image node)
 Quality of Life Nodes (e.G. Image Compare)
 
-##Inpaint Crop & Stitch
+## Inpaint Crop & Stitch
 Quality of Life Node Pack for Inpainting. Crops the Masked Area so that the KSampler does not sample the whole Source image and restitches the Output automatically together with the Source Image in the postprocessing steps.
 
 Github Respository:
