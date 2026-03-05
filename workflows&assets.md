@@ -1,6 +1,12 @@
 ## RGThree Custom Nodes (Compare Image node)
 Quality of Life Nodes (e.G. Image Compare)
 
+##Inpaint Crop & Stitch
+Quality of Life Node Pack for Inpainting. Crops the Masked Area so that the KSampler does not sample the whole Source image and restitches the Output automatically together with the Source Image in the postprocessing steps.
+
+Github Respository:
+https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
+
 ## Joycaption:
 
 Joy Caption is a ComfyUI custom node powered by the LLaVA model (LLaVA = Large Language and Vision Assistant, Microsoft Tool to understand Images) for efficient, stylized image captioning. It extracts information from an Image and converts it to a prompt:
